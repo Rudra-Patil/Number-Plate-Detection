@@ -18,3 +18,6 @@ Output of first step is a license plate image detected in a car image. This is p
 Model is trained using SVC (4 cross fold validation) with dataset present in directory train20X20. The model is saved as finalized_model.sav which is then loaded to predict each character.
 
 Once the characters of plate is obtained and model is trained, the model is loaded in order to predict each character.
+
+FLASK Based API Coming Soon...
+
