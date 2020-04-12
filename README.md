@@ -21,3 +21,14 @@ Once the characters of plate is obtained and model is trained, the model is load
 
 FLASK Based API Coming Soon...
 
+![Step 1](https://user-images.githubusercontent.com/42993095/79063111-4a928180-7cbd-11ea-8002-4e381760e976.png)
+A Grayscale image is produced of the given file.
+
+![Step 2](https://user-images.githubusercontent.com/42993095/79063128-5d0cbb00-7cbd-11ea-8467-76cb71dde10a.png)
+The license plate is detected from the input image.
+![Step 3](https://user-images.githubusercontent.com/42993095/79063149-701f8b00-7cbd-11ea-804a-6206109b53ba.png)
+Characters segmentation is applied to recognize distinct characters.
+
+The output of the detected characters is displayed in the code output.
+
+
