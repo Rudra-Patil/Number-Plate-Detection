@@ -5,7 +5,7 @@ Method
 
 2. Perform segmentation of characters
 
-3. Train a ML model to predict characters
+3. Train a DL model to predict characters
 
 4. Prediction of characters in License Plate
 
